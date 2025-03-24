@@ -86,5 +86,5 @@ For any questions or collaborations, feel free to **reach out**! 🚀
 
 
 ## 📜 License  
-This project is licensed under the **MIT License**.  
+This project is licensed under the **Apache**.  
 
